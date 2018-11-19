@@ -2,3 +2,5 @@ dependencies:
 - name: jenkins-x-platform
   repository: http://chartmuseum.jenkins-x.io
   version: 0.0.2871
+- name: ext-jacoco
+  repository: http://chartmuseum.jenkins-x.io
