@@ -5,4 +5,4 @@ dependencies:
 - alias: jacoco
   name: ext-jacoco
   repository: http://chartmuseum.jenkins-x.io
-  version: 0.0.77
+  version: 0.0.78
