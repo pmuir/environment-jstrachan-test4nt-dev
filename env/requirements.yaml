@@ -6,3 +6,6 @@ dependencies:
   name: ext-jacoco
   repository: http://chartmuseum.jenkins-x.io
   version: 0.0.77
+- name: jx-app-grafana
+  repository: http://chartmuseum.jenkins-x.io
+  version: 0.0.6
